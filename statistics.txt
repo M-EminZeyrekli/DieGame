@@ -1,7 +1,0 @@
-Hold at 20 or goal =257
-Hold at 25 or goal =343
-Keep Pace and End Race =528
-MyDiePlayer =473
-
-En başarılı strateji  keep pace
-kendi stratejim  diğer iki stratejiden iyi
