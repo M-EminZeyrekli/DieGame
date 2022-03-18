@@ -1,2 +1,2 @@
-# DieGame
+## :wave: DieGame
  
