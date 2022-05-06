@@ -1,3 +1,3 @@
 ## :wave: DieGame
  
-#  TODO: Gui eklenecek
+ TODO: Gui eklenecek
